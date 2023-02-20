@@ -45,7 +45,7 @@ $(CLIENT_BONUS) : $(OBJ2)
 		$(CC) $(CFLAGS) $(OBJ2) -o $(CLIENT_BONUS)
 
 $(SERVER_BONUS) : $(OBJ3)  
-		$(CC) $(CFLAGS) $(OBJ3) -o $(SERVER_BONUS)   this obj3 its manes that the $< its the first depandsi   
+		$(CC) $(CFLAGS) $(OBJ3) -o $(SERVER_BONUS)   
  
 clean : 
 		rm -f $(OBJ) $(OBJ1) $(OBJ2) $(OBJ3)
