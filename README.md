@@ -1,12 +1,6 @@
 # MiniTalk # Minitalk
 
-![Screen Shot 2022-12-23 at 7.43.23 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4640df3f-8dd5-47b8-ba99-0051c4e7c7d8/Screen_Shot_2022-12-23_at_7.43.23_PM.png)
 
-![Screen Shot 2022-12-23 at 9.46.03 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aadd197a-64b4-4744-9881-39bd03f885ba/Screen_Shot_2022-12-23_at_9.46.03_PM.png)
-
-![Screen Shot 2022-12-23 at 9.38.48 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1220e25a-22d4-461e-8e25-786bd2521b26/Screen_Shot_2022-12-23_at_9.38.48_PM.png)
-
-![Screen Shot 2022-12-23 at 10.35.23 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4367d6b1-17b1-49c9-828c-c52cd61ca621/Screen_Shot_2022-12-23_at_10.35.23_PM.png)
 
 s**ignals** 
 
